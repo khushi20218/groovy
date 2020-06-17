@@ -78,7 +78,7 @@ publishers {
 
 
 
-buildPipelineView('groovy pipeline') {
+buildPipelineView('groovyyyyyyyyyyyy pipeline') {
     title('task6groovy')
     displayedBuilds(5)
     selectedJob('groovyjob1')
